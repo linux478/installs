@@ -1,0 +1,133 @@
+= User Manual for MDP Personal Setup
+Michael D. Phillips <linux478@gmail.com>
+:toc:                                                               
+:toc-title: List Of Programs
+:experimental:                                                      
+:description: Setting up software on a new system
+:keywords: install, setup, Git
+:imagesdir: ./assets                                                   
+
+:git-screenshots-01: image:setup-git/2023-11-13 19_57_04-Git 2.42.0.2 Setup.png[]
+:git-screenshots-02: image:setup-git/2023-11-13 19_57_46-Git 2.42.0.2 Setup.png[]
+:git-screenshots-03: image:setup-git/2023-11-13 19_58_47-Git 2.42.0.2 Setup.png[]
+:git-screenshots-04: image:setup-git/2023-11-13 19_59_02-Git 2.42.0.2 Setup.png[]
+:git-screenshots-05: image:setup-git/2023-11-13 19_59_23-Git 2.42.0.2 Setup.png[]
+:git-screenshots-06: image:setup-git/2023-11-13 20_00_19-Git 2.42.0.2 Setup.png[]
+:git-screenshots-07: image:setup-git/2023-11-13 20_00_42-Git 2.42.0.2 Setup.png[]
+:git-screenshots-08: image:setup-git/2023-11-13 20_01_01-Git 2.42.0.2 Setup.png[]
+:git-screenshots-09: image:setup-git/2023-11-13 20_01_15-Git 2.42.0.2 Setup.png[]
+:git-screenshots-10: image:setup-git/2023-11-13 20_01_29-Git 2.42.0.2 Setup.png[]
+:git-screenshots-11: image:setup-git/2023-11-13 20_02_27-Git 2.42.0.2 Setup.png[]
+:git-screenshots-12: image:setup-git/2023-11-13 20_02_42-Git 2.42.0.2 Setup.png[]
+:git-screenshots-13: image:setup-git/2023-11-13 20_03_00-Git 2.42.0.2 Setup.png[]
+:git-screenshots-14: image:setup-git/2023-11-13 20_03_16-Git 2.42.0.2 Setup.png[]
+:git-screenshots-15: image:setup-git/2023-11-13 20_03_43-Git 2.42.0.2 Setup.png[]
+:git-screenshots-16: image:setup-git/2023-11-13 20_03_54-Git 2.42.0.2 Setup.png[]
+:git-screenshots-17: image:setup-git/2023-11-13 20_05_15-Git 2.42.0.2 Setup.png[]
+
+:git-url-home: https://git-scm.com/
+:git-url-downloads: https://git-scm.com/downloads
+:git-url-download-windows: https://git-scm.com/download
+:git-url-download-windows-standalone: https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
+:git-url-download-windows-portable: https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe
+:git-version: 2.42.0.2
+
+== Git 
+
+{git-url-home}[Home]->{git-url-downloads}[Downloads]
+
+* {git-url-download-windows-standalone}[Git-2.42.0.2-64-bit.exe]
+* {git-url-download-windows-portable}[Git-2.42.0.2-64-bit.7z.exe]
+
+=== Installation
+
+Pictures are from installing Git standalone version {git-version}
+
+* Execute the download file
+
+{git-screenshots-01} 
+
+* Uncheck Only Show New Options
+* btn:[Next]
+
+{git-screenshots-02} 
+
+* btn:[Browse] to a location that is readable/writeable
+* btn:[Next]
+
+{git-screenshots-03} 
+
+* select the options you want
+** the selections in the picture are recommended
+* btn:[Next]
+
+{git-screenshots-04} 
+
+* Make your decision for shortcuts in the start menu folder
+* btn:[Next]
+
+{git-screenshots-05} 
+
+* In the drop-down menu make your selection
+* btn:[Next]
+
+{git-screenshots-06} 
+
+* Select your preference
+* btn:[Next]
+
+{git-screenshots-07} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-08} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-09} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-10} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-11} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-12} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-13} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-14} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-15} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-16} 
+
+* The default settings work
+* btn:[Next]
+
+{git-screenshots-17} 
+
+* The default settings work
+* btn:[Next]
+
